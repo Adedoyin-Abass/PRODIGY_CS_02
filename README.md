@@ -23,22 +23,16 @@ A simple yet effective Python script that scrambles images by rearranging their 
 
 A new image is constructed by pasting the blocks into their correct original order.
 
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; margin-bottom: 20px;">
+<div style="display: flex; justify-content: space-around; align-items: flex-start;">
+    <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/me.png" alt="Original Image" width="30%">
+</div>
 
-    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://via.placeholder.com/250x150/FF5733/FFFFFF?text=Test_Image_1" alt="Test Image 1" width="250">
-        <p style="text-align: center; font-style: italic; color: #555;">Placeholder Image 1</p>
-    </div>
+<div style="display: flex; justify-content: space-around; align-items: flex-start;">
+    <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/scrambled_image.png" alt="Scrambled Image" width="30%">
+</div>
 
-    <div style="font-size: 60px; color: #007bff; margin: 0 20px;">
-        &#8594;
-    </div>
-
-    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://via.placeholder.com/250x150/33A9FF/FFFFFF?text=Test_Image_2" alt="Test Image 2" width="250">
-        <p style="text-align: center; font-style: italic; color: #555;">Placeholder Image 2</p>
-    </div>
-
+<div style="display: flex; justify-content: space-around; align-items: flex-start;">
+    <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/my_humble_self.png" alt="Descrambled Image" width="30%">
 </div>
 
 ## ⚠️ Important Note on Unscrambling
