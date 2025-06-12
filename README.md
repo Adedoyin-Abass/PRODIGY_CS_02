@@ -8,7 +8,7 @@ A simple yet effective Python script that scrambles images by rearranging their 
 * User-Friendly Command-Line Interface: Easy to interact with via a simple menu.
 * Error Handling: Includes basic checks for file existence and valid inputs.
 
-⚙️ ## How It Works
+## ⚙️ How It Works
 1. Scrambling (`block_scramble`):
   * The input image is loaded and converted to RGB format.
   * It's conceptually divided into a grid of blocks based on the specified `block_size`.
@@ -23,10 +23,10 @@ A simple yet effective Python script that scrambles images by rearranging their 
 
 A new image is constructed by pasting the blocks into their correct original order.
 
-⚠️ ## Important Note on Unscrambling
+## ⚠️ Important Note on Unscrambling
 The `.key.json` file is essential for unscrambling. Without this file, the original image cannot be reliably restored, as the shuffling order is unknown. Treat this key file as you would a password for decryption!
 
-🚀 ## Getting Started
+## 🚀 Getting Started
 * Prerequisites
 * Python 3.x
 
@@ -68,7 +68,7 @@ Do you want to (E)ncrypt, (D)ecrypt, or (Q)uit? (E/D/Q):`
 ## Contributing
 Feel free to fork this repository, make improvements, and submit pull requests. Any contributions are welcome!
 
-📄 ## License
+## 📄 License
 This project is open source and available under the MIT License.
 
 ## Author
