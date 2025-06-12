@@ -30,15 +30,15 @@ A new image is constructed by pasting the blocks into their correct original ord
 </div>
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
-    <figure style="width: 30%; text-align: center;">
+    <figure style="width: 10%; text-align: center;">
         <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/me.png" alt="Original Image">
         <figcaption>Original Image</figcaption>
     </figure>
-    <figure style="width: 30%; text-align: center;">
+    <figure style="width: 10%; text-align: center;">
         <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/scrambled_image.png" alt="Scrambled Image">
         <figcaption>Scrambled Image</figcaption>
     </figure>
-    <figure style="width: 30%; text-align: center;">
+    <figure style="width: 10%; text-align: center;">
         <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/my_humble_self.png" alt="Descrambled Image">
         <figcaption>Descrambled Image</figcaption>
     </figure>
