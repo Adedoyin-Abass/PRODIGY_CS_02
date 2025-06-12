@@ -28,9 +28,9 @@ A new image is constructed by pasting the blocks into their correct original ord
 <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/my_humble_self.png" alt="Descrambled Image" height="300" width="300">
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
-    <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/me.png" alt="Original Image" width="45%">
-    <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/scrambled_image.png" alt="Scrambled Image" width="45%">
-    <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/my_humble_self.png" alt="Descrambled Image" width="45%">
+    <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/me.png" alt="Original Image" width="30%">
+    <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/scrambled_image.png" alt="Scrambled Image" width="30%">
+    <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/my_humble_self.png" alt="Descrambled Image" width="30%">
 </div>
 
 ## ⚠️ Important Note on Unscrambling
