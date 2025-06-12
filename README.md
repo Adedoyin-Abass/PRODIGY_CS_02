@@ -23,6 +23,10 @@ A simple yet effective Python script that scrambles images by rearranging their 
 
 A new image is constructed by pasting the blocks into their correct original order.
 
+<img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/me.png" alt="Input Image" width="300">
+<img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/me.png" alt="Input image" height="200">
+<img src="path/to/your/image.png" alt="Description of image" width="50%">
+<img src="path/to/your/image.png" alt="Description of image" width="400" height="300">
 ![Alt text](https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/me.png)
 ![Alt text](https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/scrambled_image.png)
 ![Alt text](https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/my_humble_self.png)
