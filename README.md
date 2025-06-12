@@ -23,30 +23,32 @@ A simple yet effective Python script that scrambles images by rearranging their 
 
 A new image is constructed by pasting the blocks into their correct original order.
 
-
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; margin-bottom: 20px;">
 
     <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/me.png" alt="Original Image" width="30%">
-        <p style="text-align: center; font-style: italic; color: #555;">Original Image</p>
+        <img src="https://via.placeholder.com/180x120/FFC300/000000?text=Input" alt="Input Data" width="180">
+        <p style="text-align: center; font-style: italic; color: #555; margin-top: 5px;">Input Data</p>
     </div>
 
-    <div style="font-size: 60px; color: #007bff; margin: 0 20px;">
-        &#8594; </div>
+    <div style="font-size: 50px; color: #28a745; margin: 0 15px;">
+        &#10140;
+    </div>
 
     <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/scrambled_image.png" alt="Scrambled Image" width="30%">
-        <p style="text-align: center; font-style: italic; color: #555;">Processed Image</p>
+        <img src="https://via.placeholder.com/180x120/DAF7A6/000000?text=Step_1" alt="Intermediate Step" width="180">
+        <p style="text-align: center; font-style: italic; color: #555; margin-top: 5px;">Intermediate Step</p>
     </div>
-    
+
+    <div style="font-size: 50px; color: #28a745; margin: 0 15px;">
+        &#10140;
+    </div>
+
     <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/my_humble_self.png" alt="Unscrambled Image" width="30%">
-        <p style="text-align: center; font-style: italic; color: #555;">Processed Image</p>
+        <img src="https://via.placeholder.com/180x120/900C3F/FFFFFF?text=Output" alt="Final Output" width="180">
+        <p style="text-align: center; font-style: italic; color: #555; margin-top: 5px;">Final Output</p>
     </div>
 
 </div>
-
-
 
 ## ⚠️ Important Note on Unscrambling
 The `.key.json` file is essential for unscrambling. Without this file, the original image cannot be reliably restored, as the shuffling order is unknown. Treat this key file as you would a password for decryption!
