@@ -25,14 +25,27 @@ A new image is constructed by pasting the blocks into their correct original ord
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
     <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/me.png" alt="Original Image" width="30%">
-</div>
-
-<div style="display: flex; justify-content: space-around; align-items: flex-start;">
     <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/scrambled_image.png" alt="Scrambled Image" width="30%">
+    <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/my_humble_self.png" alt="Descrambled Image" width="30%">
 </div>
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start;">
-    <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/my_humble_self.png" alt="Descrambled Image" width="30%">
+<div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
+
+    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/me.png" alt="Original Image" width="300">
+        <p style="text-align: center; font-style: italic; color: #555; margin-top: 5px;">Original Image</p>
+    </div>
+
+    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/scrambled_image.png" alt="Scrambled Image" width="300">
+        <p style="text-align: center; font-style: italic; color: #555; margin-top: 5px;">Scrambled Version</p>
+    </div>
+
+    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/my_humble_self.png" alt="Descrambled Image" width="300">
+        <p style="text-align: center; font-style: italic; color: #555; margin-top: 5px;">Descrambled Output</p>
+    </div>
+
 </div>
 
 ## ⚠️ Important Note on Unscrambling
