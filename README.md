@@ -29,8 +29,6 @@ A new image is constructed by pasting the blocks into their correct original ord
     <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/my_humble_self.png" alt="Descrambled Image" width="30%">
 </div>
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
-
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
     <figure style="width: 30%; text-align: center;">
         <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/me.png" alt="Original Image">
