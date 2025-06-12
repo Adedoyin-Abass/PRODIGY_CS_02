@@ -23,6 +23,10 @@ A simple yet effective Python script that scrambles images by rearranging their 
 
 A new image is constructed by pasting the blocks into their correct original order.
 
+![Alt text](https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/me.png)
+![Alt text](https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/scrambled_image.png)
+![Alt text](https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/my_humble_self.png)
+
 ## ⚠️ Important Note on Unscrambling
 The `.key.json` file is essential for unscrambling. Without this file, the original image cannot be reliably restored, as the shuffling order is unknown. Treat this key file as you would a password for decryption!
 
