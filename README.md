@@ -26,26 +26,17 @@ A new image is constructed by pasting the blocks into their correct original ord
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; margin-bottom: 20px;">
 
     <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://via.placeholder.com/180x120/FFC300/000000?text=Input" alt="Input Data" width="180">
-        <p style="text-align: center; font-style: italic; color: #555; margin-top: 5px;">Input Data</p>
+        <img src="https://via.placeholder.com/250x150/FF5733/FFFFFF?text=Test_Image_1" alt="Test Image 1" width="250">
+        <p style="text-align: center; font-style: italic; color: #555;">Placeholder Image 1</p>
     </div>
 
-    <div style="font-size: 50px; color: #28a745; margin: 0 15px;">
-        &#10140;
-    </div>
-
-    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://via.placeholder.com/180x120/DAF7A6/000000?text=Step_1" alt="Intermediate Step" width="180">
-        <p style="text-align: center; font-style: italic; color: #555; margin-top: 5px;">Intermediate Step</p>
-    </div>
-
-    <div style="font-size: 50px; color: #28a745; margin: 0 15px;">
-        &#10140;
+    <div style="font-size: 60px; color: #007bff; margin: 0 20px;">
+        &#8594;
     </div>
 
     <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://via.placeholder.com/180x120/900C3F/FFFFFF?text=Output" alt="Final Output" width="180">
-        <p style="text-align: center; font-style: italic; color: #555; margin-top: 5px;">Final Output</p>
+        <img src="https://via.placeholder.com/250x150/33A9FF/FFFFFF?text=Test_Image_2" alt="Test Image 2" width="250">
+        <p style="text-align: center; font-style: italic; color: #555;">Placeholder Image 2</p>
     </div>
 
 </div>
