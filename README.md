@@ -23,12 +23,6 @@ A simple yet effective Python script that scrambles images by rearranging their 
 
 A new image is constructed by pasting the blocks into their correct original order.
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start;">
-    <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/me.png" alt="Original Image" width="30%">
-    <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/scrambled_image.png" alt="Scrambled Image" width="30%">
-    <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/my_humble_self.png" alt="Descrambled Image" width="30%">
-</div>
-
 <table style="width:100%;">
   <tr>
     <td style="width:33%; text-align:center; vertical-align:top;">
@@ -42,9 +36,9 @@ A new image is constructed by pasting the blocks into their correct original ord
       Scrambled Image
     </td>
     <td style="width:33%; text-align:center; vertical-align:top;">
-      <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/my_humble_self.png" alt="Descrambled Image" style="max-width:100%;">
+      <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/my_humble_self.png" alt="Unscrambled Image" style="max-width:100%;">
       <br>
-      Descrambled Image
+      Unscrambled Image
     </td>
   </tr>
 </table>
