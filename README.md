@@ -65,7 +65,7 @@ Do you want to (E)ncrypt, (D)ecrypt, or (Q)uit? (E/D/Q):`
 4. Enter the same block size that was used during scrambling.
 5. Enter the path to the `.key.json` file. If left blank, the script will attempt to infer it (e.g., `scrambled_image.png.key.json`).
 
-![Alt text]()
+![Alt text](https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/Screenshot%202025-06-12%20045442.png)
 
 ## Contributing
 Feel free to fork this repository, make improvements, and submit pull requests. Any contributions are welcome!
