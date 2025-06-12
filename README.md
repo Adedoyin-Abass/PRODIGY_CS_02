@@ -23,19 +23,14 @@ A simple yet effective Python script that scrambles images by rearranging their 
 
 A new image is constructed by pasting the blocks into their correct original order.
 
-<img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/me.png" alt="Input Image" height="300" width="300">
+<img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/me.png" alt="Original Image" height="300" width="300">
 <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/scrambled_image.png" alt="Scrambled Image" height="300" width="300">
 <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/my_humble_self.png" alt="Descrambled Image" height="300" width="300">
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
-    <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/me.png" alt="Image 1 description" width="45%">
-    <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/scrambled_image.png" alt="Image 2 description" width="45%">
-</div>
-
-<div style="display: flex; justify-content: space-around; align-items: flex-start;">
-    <img src="path/to/image1.png" alt="Image 1 description" width="30%">
-    <img src="path/to/image2.png" alt="Image 2 description" width="30%">
-    <img src="path/to/image3.png" alt="Image 3 description" width="30%">
+    <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/me.png" alt="Original Image" width="45%">
+    <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/scrambled_image.png" alt="Scrambled Image" width="45%">
+    <img src="https://github.com/Ubuntu-Dekiru/block_based_image_scrambler/blob/main/screenshots/my_humble_self.png" alt="Descrambled Image" width="45%">
 </div>
 
 ## ⚠️ Important Note on Unscrambling
