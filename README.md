@@ -1,7 +1,7 @@
-🔒 # Block-Based Image Scrambler & Unscrambler
+# 🔒 Block-Based Image Scrambler & Unscrambler
 A simple yet effective Python script that scrambles images by rearranging their constituent blocks and provides a reversible mechanism to unscramble them using a generated key file. Ideal for demonstrating basic image manipulation, data hiding concepts, or just having some fun with your pictures!
 
-✨ ## Features
+## ✨ Features
 * Block-Based Scrambling: Divides an image into square blocks and shuffles their positions randomly.
 * Reversible Unscrambling: Generates a `.key.json` file during scrambling, which can be used to perfectly restore the original image.
 * Customizable Block Size: Allows users to specify the size of the blocks for varying levels of scrambling.
