@@ -15,7 +15,7 @@ A simple yet effective Python script that scrambles images by rearranging their 
   * Each block is extracted and stored, maintaining its original index.
   * A permutation key (a list of shuffled indices) is generated. This key dictates where each original block's content will be placed in the scrambled image.
   * The scrambled image is created by pasting the original blocks according to this permutation.
-  * The scrambled image is saved, and the generated permutation key is saved as a `.key.json` file (e.g.,` my_scrambled_image.png.key.json`).
+  * The scrambled image is saved, and the generated permutation key is saved as a `.key.json` file (e.g., `my_scrambled_image.png.key.json`).
 2. Unscrambling (`block_unscramble`):
   * The scrambled image and its corresponding `.key.json` file are loaded.
   * Blocks are extracted from the scrambled image in their current visual order.
