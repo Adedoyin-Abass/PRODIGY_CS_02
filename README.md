@@ -26,17 +26,17 @@ A new image is constructed by pasting the blocks into their correct original ord
 <table style="width:100%;">
   <tr>
     <td style="width:33%; text-align:center; vertical-align:top;">
-      <img src="https://github.com/Ubuntu-Dekiru/PRODIGY_CS_02/blob/main/screenshots/me.png" alt="Original Image" style="max-width:100%;">
+      <img src="https://github.com/Adedoyin-Abass/PRODIGY_CS_02/blob/main/screenshots/me.png" alt="Original Image" style="max-width:100%;">
       <br>
       Original Image
     </td>
     <td style="width:33%; text-align:center; vertical-align:top;">
-      <img src="https://github.com/Ubuntu-Dekiru/PRODIGY_CS_02/blob/main/screenshots/scrambled_image.png" alt="Scrambled Image" style="max-width:100%;">
+      <img src="https://github.com/Adedoyin-Abass/PRODIGY_CS_02/blob/main/screenshots/scrambled_image.png" alt="Scrambled Image" style="max-width:100%;">
       <br>
       Scrambled Image
     </td>
     <td style="width:33%; text-align:center; vertical-align:top;">
-      <img src="https://github.com/Ubuntu-Dekiru/PRODIGY_CS_02/blob/main/screenshots/my_humble_self.png" alt="Unscrambled Image" style="max-width:100%;">
+      <img src="https://github.com/Adedoyin-Abass/PRODIGY_CS_02/blob/main/screenshots/my_humble_self.png" alt="Unscrambled Image" style="max-width:100%;">
       <br>
       Unscrambled Image
     </td>
@@ -55,7 +55,7 @@ Pillow library (PIL Fork)
 ## Installation
 1. Clone the repository (or download the script):
 
-`git clone https://github.com/Ubuntu-Dekiru/block_based_image_scrambler`
+`git clone https://github.com/Adedoyin-Abassu/block_based_image_scrambler`
 `cd image-scrambler`
 
 Install the Pillow library:
@@ -85,7 +85,7 @@ Do you want to (E)ncrypt, (D)ecrypt, or (Q)uit? (E/D/Q):`
 4. Enter the same block size that was used during scrambling.
 5. Enter the path to the `.key.json` file. If left blank, the script will attempt to infer it (e.g., `scrambled_image.png.key.json`).
 
-![Alt text](https://github.com/Ubuntu-Dekiru/PRODIGY_CS_02/blob/main/screenshots/Screenshot%202025-06-12%20045442.png)
+![Alt text](https://github.com/Adedoyin-Abass/PRODIGY_CS_02/blob/main/screenshots/Screenshot%202025-06-12%20045442.png)
 
 ## Contributing
 Feel free to fork this repository, make improvements, and submit pull requests. Any contributions are welcome!
@@ -94,4 +94,4 @@ Feel free to fork this repository, make improvements, and submit pull requests. 
 This project is open source and available under the MIT License.
 
 ## Author
-Adedoyin Abass / https://github.com/Ubuntu-Dekiru
+Adedoyin Abass / https://github.com/Adedoyin-Abass
